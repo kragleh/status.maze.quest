@@ -16,8 +16,8 @@ status-website:
   logoUrl: https://maze.quest/favicon.ico
   name: Maze Quest
   theme: night
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**status.maze.quest** is an uptime monitor and status page, powered entirely by GitHub."
+  introMessage: Welcome to our status page, where we provide real-time updates on the performance and uptime of our services.
   navbar:
     - title: Status
       href: /
