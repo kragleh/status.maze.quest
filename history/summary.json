@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1983,
-    "timeDay": 1983,
-    "timeWeek": 1983,
-    "timeMonth": 1983,
-    "timeYear": 1983,
+    "time": 1613,
+    "timeDay": 1613,
+    "timeWeek": 1613,
+    "timeMonth": 1613,
+    "timeYear": 1613,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cms.maze.quest.ico",
     "slug": "homepage-backend",
     "status": "up",
-    "uptime": "97.60%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "97.60%",
-    "uptimeMonth": "97.60%",
-    "uptimeYear": "97.60%",
-    "time": 559,
-    "timeDay": 559,
-    "timeWeek": 559,
-    "timeMonth": 559,
-    "timeYear": 559,
-    "dailyMinutesDown": {
-      "2023-07-23": 1
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 563,
+    "timeDay": 563,
+    "timeWeek": 563,
+    "timeMonth": 563,
+    "timeYear": 563,
+    "dailyMinutesDown": {}
   }
 ]
