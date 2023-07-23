@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://maze.quest/favicon.ico
   name: Maze Quest
   theme: night
-  introTitle: "**status.maze.quest** is an uptime monitor and status page, powered entirely by GitHub."
+  introTitle: ""
   introMessage: Welcome to our status page, where we provide real-time updates on the performance and uptime of our services.
   navbar:
     - title: Status
