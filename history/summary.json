@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1922,
-    "timeDay": 2036,
-    "timeWeek": 1922,
-    "timeMonth": 1922,
-    "timeYear": 1922,
+    "time": 2007,
+    "timeDay": 2287,
+    "timeWeek": 2007,
+    "timeMonth": 2007,
+    "timeYear": 2007,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 842,
-    "timeDay": 653,
-    "timeWeek": 842,
-    "timeMonth": 842,
-    "timeYear": 842,
+    "time": 811,
+    "timeDay": 592,
+    "timeWeek": 811,
+    "timeMonth": 811,
+    "timeYear": 811,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 168,
-    "timeWeek": 168,
-    "timeMonth": 168,
-    "timeYear": 168,
+    "time": 152,
+    "timeDay": 152,
+    "timeWeek": 152,
+    "timeMonth": 152,
+    "timeYear": 152,
     "dailyMinutesDown": {}
   },
   {
@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/node.kragleh.com.ico",
     "slug": "node-1",
     "status": "down",
-    "uptime": "24.41%",
-    "uptimeDay": "24.41%",
-    "uptimeWeek": "24.41%",
-    "uptimeMonth": "24.41%",
-    "uptimeYear": "24.41%",
-    "time": 397,
-    "timeDay": 397,
-    "timeWeek": 397,
-    "timeMonth": 397,
-    "timeYear": 397,
-    "dailyMinutesDown": {
-      "2023-07-27": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 377,
+    "timeDay": 377,
+    "timeWeek": 377,
+    "timeMonth": 377,
+    "timeYear": 377,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Node 2",
@@ -79,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/node2.kragleh.com.ico",
     "slug": "node-2",
     "status": "down",
-    "uptime": "27.71%",
-    "uptimeDay": "27.71%",
-    "uptimeWeek": "27.71%",
-    "uptimeMonth": "27.71%",
-    "uptimeYear": "27.71%",
-    "time": 464,
-    "timeDay": 464,
-    "timeWeek": 464,
-    "timeMonth": 464,
-    "timeYear": 464,
-    "dailyMinutesDown": {
-      "2023-07-27": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 443,
+    "timeDay": 443,
+    "timeWeek": 443,
+    "timeMonth": 443,
+    "timeYear": 443,
+    "dailyMinutesDown": {}
   }
 ]
