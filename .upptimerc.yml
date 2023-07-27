@@ -7,6 +7,17 @@ sites:
     url: https://maze.quest
   - name: Homepage Backend
     url: https://cms.maze.quest
+  - name: Minecraft Proxy
+    check: "tcp-ping"
+    url: play.maze.quest
+    port: 25565
+    icon: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-32x32.png
+  - name: Node 1
+    url: https://node.kragleh.com
+    port: 8080
+  - name: Node 2
+    url: https://node2.kragleh.com
+    port: 2023
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
