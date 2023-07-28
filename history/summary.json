@@ -22,18 +22,20 @@
     "url": "https://cms.maze.quest",
     "icon": "https://icons.duckduckgo.com/ip3/cms.maze.quest.ico",
     "slug": "homepage-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 775,
-    "timeDay": 546,
-    "timeWeek": 775,
-    "timeMonth": 775,
-    "timeYear": 775,
-    "dailyMinutesDown": {}
+    "time": 766,
+    "timeDay": 553,
+    "timeWeek": 766,
+    "timeMonth": 766,
+    "timeYear": 766,
+    "dailyMinutesDown": {
+      "2023-07-28": 0
+    }
   },
   {
     "name": "Minecraft Proxy",
