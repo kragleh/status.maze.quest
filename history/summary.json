@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2044,
     "timeDay": 778,
-    "timeWeek": 2366,
+    "timeWeek": 2297,
     "timeMonth": 2044,
     "timeYear": 2044,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 726,
     "timeDay": 425,
-    "timeWeek": 583,
+    "timeWeek": 574,
     "timeMonth": 726,
     "timeYear": 726,
     "dailyMinutesDown": {}
@@ -76,9 +76,9 @@
     "url": "https://node2.kragleh.com:2023",
     "icon": "https://icons.duckduckgo.com/ip3/node2.kragleh.com.ico",
     "slug": "node-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 485,
     "timeMonth": 485,
     "timeYear": 485,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-31": 0
+    }
   }
 ]
